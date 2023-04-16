@@ -83,7 +83,7 @@
 | **bids**|  |  |  |  |  |  |
 
 ### 3.2 Entity Relationship Diagram
-**link**
+![car auction design erd](schema/car_auction-erd.png)
 
 ##  4. Determine Business Rules
 ### Table: cities
