@@ -1,0 +1,101 @@
+seller_id,city_id,first_name,last_name,phone
+1,1375,Eka,Usamah,+62 (0177) 356 4840
+2,1375,Paiman,Latupono,+62 (0684) 992 4835
+3,6472,Teddy,Rahayu,+62 (090) 493-4201
+4,7371,Hartana,Napitupulu,+62-084-880-0835
+5,3173,Iriana,Hutagalung,+62 (064) 145 0722
+6,3175,Anita,Dongoran,+62 (068) 239-6850
+7,3173,Ghani,Sudiati,+62 (0836) 344 3889
+8,3171,Maryadi,Usada,(004) 521-3831
+9,3573,Unggul,Laksmiwati,081 279 5591
+10,5171,Bella,Haryanti,+62 (71) 346-8301
+11,7371,Bakianto,Budiman,(0958) 738-5100
+12,3471,Bakda,Hutapea,+62-639-780-0265
+13,5171,Bakianto,Gunarto,+62 (85) 378-8083
+14,3172,Olivia,Widodo,+62 (903) 925-0649
+15,1371,Panji,Mandasari,+62 (011) 273 1802
+16,3171,Imam,Laksmiwati,0889063828
+17,3573,Sari,Palastri,+62 (0196) 504 3285
+18,3573,Caturangga,Simanjuntak,085 943 1989
+19,6472,Putri,Santoso,(027) 745-3662
+20,7371,Ibun,Prakasa,(011) 417-6346
+21,6471,Saiful,Ramadan,+62 (001) 687 1356
+22,3174,Ajimin,Nugroho,+62-069-226-8162
+23,5171,Hasta,Siregar,+62-88-395-4047
+24,3173,Widya,Wacana,+62 (897) 128-5503
+25,3174,Galih,Sirait,(0411) 174-1601
+26,6471,Gaiman,Usamah,+62 (55) 851 0720
+27,3471,Cakrawala,Prakasa,+62 (022) 890 7595
+28,3273,Limar,Zulaika,+62-45-404-5166
+29,3172,Jaka,Wahyuni,082 133 2406
+30,3175,Drajat,Suryatmi,+62 (063) 686-2646
+31,3573,Drajat,Marpaung,+62 (002) 784-7782
+32,3173,Ismail,Natsir,+62 (02) 829 1787
+33,1371,Harto,Maryadi,+62 (28) 154 2777
+34,3171,Hasan,Hutapea,+62 (12) 918-1676
+35,3573,Oskar,Lailasari,(0805) 744-3966
+36,3175,Maman,Habibi,0881627834
+37,3173,Mitra,Mahendra,+62 (016) 058-0802
+38,3171,Asmadi,Yuniar,+62-022-121-6486
+39,3175,Martana,Latupono,+62-067-948-1643
+40,3471,Purwa,Rahimah,+62 (73) 267-9793
+41,3573,Panji,Purnawati,+62-0577-479-4205
+42,5171,Bahuraksa,Suryono,(038) 300-4382
+43,6472,Gabriella,Saefullah,(065) 177 0114
+44,3273,Zelda,Riyanti,+62 (0631) 558 8401
+45,1371,Kasiyah,Dabukke,+62-780-935-6422
+46,5171,Ozy,Hartati,(0792) 507 1247
+47,3174,Daruna,Winarsih,+62 (016) 226-7331
+48,1371,Endah,Marpaung,(0406) 754 6844
+49,3578,Unggul,Simbolon,+62 (0049) 902 0877
+50,3273,Irnanto,Kurniawan,+62 (005) 604-4034
+51,3273,Prabu,Rahmawati,(0333) 438 8513
+52,3172,Kamidin,Palastri,+62 (69) 049 7444
+53,3174,Eja,Saragih,+62-075-909-4605
+54,7371,Padmi,Usamah,+62-026-639-1579
+55,3174,Caket,Nainggolan,+62-042-511-7132
+56,3172,Gatra,Sitompul,+62-033-863-3812
+57,3175,Jais,Maulana,+62 (036) 625-0849
+58,3171,Kardi,Usamah,(008) 700-7231
+59,3175,Jaiman,Prastuti,+62 (079) 753 5342
+60,1375,Yulia,Halim,+62 (0619) 635-2702
+61,1371,Manah,Salahudin,+62 (0754) 431-7360
+62,5171,Karman,Padmasari,+62 (053) 563 6488
+63,3174,Ega,Iswahyudi,(0640) 743-8711
+64,1371,Darman,Puspita,(0213) 473-9820
+65,3471,Umay,Suartini,+62 (085) 723 3309
+66,6472,Ratna,Lazuardi,0805601460
+67,3273,Jaya,Natsir,+62 (075) 459 6619
+68,3171,Nalar,Nainggolan,084 032 7695
+69,3173,Yulia,Siregar,+62-60-881-3331
+70,7371,Usman,Anggraini,0855834170
+71,6471,Jasmin,Haryanto,+62-039-941-8100
+72,5171,Putri,Nasyiah,+62 (906) 801 3454
+73,3174,Indra,Nurdiyanti,(0633) 562 6147
+74,6472,Ifa,Wasita,+62-181-637-8989
+75,3273,Panji,Hidayanto,+62 (836) 458 6775
+76,5171,Tasnim,Hutapea,+62 (177) 559 2446
+77,6472,Gantar,Hutasoit,+62-37-406-1978
+78,5171,Gangsar,Oktaviani,+62 (0258) 826 9733
+79,3578,Harsanto,Nasyidah,+62 (088) 872-0589
+80,3174,Cemplunk,Haryanti,+62-03-109-1582
+81,5171,Wisnu,Rajata,+62 (036) 524-9742
+82,1375,Zamira,Prakasa,+62-636-693-0512
+83,1371,Irwan,Aryani,+62 (0717) 433 7234
+84,3173,Putri,Simanjuntak,(011) 774-2197
+85,7371,Paulin,Wijayanti,+62-63-563-0471
+86,5171,Lamar,Prabowo,+62 (021) 762 1240
+87,1371,Gilda,Pudjiastuti,+62 (38) 045 5593
+88,3175,Bambang,Permata,+62 (403) 943 0101
+89,3273,Purwanto,Marbun,+62 (075) 435-8856
+90,3175,Kacung,Maryati,(001) 490 5795
+91,3172,Oliva,Purwanti,(003) 399 2546
+92,3273,Eka,Budiman,(0177) 574-7083
+93,1375,Azalea,Usamah,+62 (394) 972 8925
+94,3573,Wirda,Tampubolon,+62-0309-286-9224
+95,3578,Maria,Zulkarnain,+62 (54) 792 3655
+96,3578,Joko,Hardiansyah,(0180) 658 9091
+97,5171,Kamidin,Ardianto,+62 (0521) 657 2432
+98,6471,Bala,Simanjuntak,0888397350
+99,3471,Marsito,Hassanah,082 928 1039
+100,6471,Febi,Widodo,(041) 990 2594

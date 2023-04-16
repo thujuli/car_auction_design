@@ -1,0 +1,101 @@
+customer_id,city_id,first_name,last_name,phone
+1,6472,Kalim,Andriani,+62 (094) 549-7455
+2,7371,Hartana,Mulyani,+62 (87) 409 9230
+3,3471,Gatra,Kusumo,(065) 389-3069
+4,3578,Gilda,Gunarto,+62 (088) 622-5461
+5,6471,Muni,Pradipta,+62 (412) 709 4014
+6,3175,Wirda,Padmasari,(0116) 065-9692
+7,3172,Adinata,Kuswoyo,+62 (096) 282-3579
+8,3273,Slamet,Wibowo,+62 (56) 762 4178
+9,3174,Febi,Sinaga,+62 (394) 988 2654
+10,3273,Daliman,Permata,+62 (19) 318-8088
+11,3175,Ciaobella,Samosir,+62 (59) 073 7504
+12,3471,Hari,Suwarno,+62 (072) 884-3295
+13,6471,Jarwadi,Utama,+62-826-638-7392
+14,6471,Praba,Kurniawan,+62 (60) 150 3826
+15,3175,Respati,Sudiati,(0292) 140 5565
+16,6471,Garda,Haryanto,+62 (29) 552 8452
+17,3175,Oman,Rahimah,+62 (41) 519 0048
+18,7371,Maryanto,Widiastuti,(0128) 180 1004
+19,5171,Widya,Hardiansyah,(082) 115 9769
+20,3171,Cayadi,Siregar,+62 (83) 806 9830
+21,1375,Prakosa,Maryadi,+62 (78) 573 7724
+22,3172,Jumari,Wibowo,+62 (0667) 406-9816
+23,3171,Salwa,Pudjiastuti,(0855) 789-4830
+24,3573,Jagaraga,Putra,+62-0732-172-3264
+25,3173,Ibrani,Simbolon,085 669 4230
+26,3171,Galur,Prastuti,(0243) 148 6175
+27,3174,Bakijan,Agustina,(092) 406-2642
+28,6471,Shakila,Situmorang,0854771223
+29,3175,Daniswara,Agustina,+62 (400) 055-3950
+30,6472,Ira,Tamba,0847944202
+31,3171,Karna,Nasyidah,+62 (052) 393-3297
+32,3171,Erik,Wasita,+62 (0841) 811-9947
+33,3578,Omar,Tarihoran,(0040) 808-3178
+34,1371,Fathonah,Rahmawati,+62 (07) 946 5945
+35,3573,Najam,Suartini,+62 (0760) 781 7673
+36,3171,Paulin,Sihotang,+62-55-187-2992
+37,3173,Paulin,Haryanto,+62 (0638) 907-7236
+38,3573,Okta,Nainggolan,+62 (088) 311 5292
+39,3175,Jail,Siregar,+62-007-942-2318
+40,3174,Tirta,Saefullah,(072) 140-2833
+41,7371,Purwa,Hutagalung,+62 (028) 531-0428
+42,3578,Cahya,Pradana,+62 (632) 258 6703
+43,3273,Tania,Marpaung,(083) 695 5583
+44,7371,Hasna,Prasasta,+62 (923) 412-8044
+45,3471,Asmuni,Saragih,0850287053
+46,3175,Edison,Nainggolan,+62-22-753-1850
+47,3171,Jati,Iswahyudi,+62-76-963-1132
+48,3273,Vera,Namaga,+62-032-330-8862
+49,3273,Radit,Narpati,+62 (21) 384-5434
+50,1371,Mumpuni,Hutagalung,+62 (96) 130-5661
+51,3273,Shakila,Saefullah,+62 (19) 797 7795
+52,3173,Caket,Nuraini,+62 (031) 216-5861
+53,3273,Gaiman,Sihotang,+62-795-240-9100
+54,1371,Rahmi,Winarsih,+62-490-302-2785
+55,1375,Dadap,Wacana,+62 (303) 830 7743
+56,3573,Vanesa,Sitorus,+62 (0038) 327-8093
+57,3175,Vinsen,Hutasoit,+62-018-070-7084
+58,3172,Gabriella,Hutapea,(0611) 453-2318
+59,6472,Ibrani,Wibisono,089 526 3452
+60,7371,Darmanto,Prabowo,(040) 528-5684
+61,6471,Bambang,Simanjuntak,+62 (0915) 889-2760
+62,6472,Lembah,Ardianto,(046) 709-4258
+63,3171,Victoria,Budiman,(068) 784 8562
+64,1375,Rusman,Dabukke,+62 (45) 578 7099
+65,3173,Tania,Widodo,+62 (042) 984 5614
+66,6472,Edward,Salahudin,+62 (0363) 215-6383
+67,7371,Suci,Hutagalung,+62 (0005) 064 9317
+68,6472,Ina,Widodo,+62 (0835) 853-7377
+69,1371,Jabal,Nugroho,+62-92-513-6868
+70,6472,Siti,Puspasari,+62 (0939) 388 7823
+71,3173,Emong,Laksmiwati,+62-272-777-0620
+72,3578,Laila,Sirait,+62 (910) 224-0030
+73,1375,Kambali,Siregar,+62-0431-386-3491
+74,6471,Unggul,Widiastuti,+62 (134) 325 8010
+75,6472,Umi,Usada,+62 (31) 944 2129
+76,3173,Tari,Jailani,+62-013-281-1820
+77,1371,Mala,Usamah,+62 (0526) 179-8500
+78,3174,Prabu,Wijayanti,+62 (078) 660 1763
+79,3471,Maras,Uyainah,+62-0200-424-1741
+80,5171,Cornelia,Waluyo,+62-0909-248-2527
+81,3171,Edison,Handayani,+62 (011) 196-5163
+82,3573,Abyasa,Ramadan,(043) 222-6567
+83,3174,Waluyo,Ardianto,+62-276-703-7572
+84,6471,Ihsan,Wibowo,+62 (009) 897-0684
+85,3471,Wardi,Prabowo,(007) 058-0445
+86,3273,Bahuwarna,Manullang,+62-57-316-1202
+87,3273,Uda,Nasyiah,+62-025-921-9853
+88,1375,Rusman,Astuti,+62 (003) 548 3924
+89,3273,Arta,Jailani,+62-0974-192-6612
+90,3573,Tira,Nababan,+62 (067) 609 3906
+91,3578,Legawa,Napitupulu,+62 (446) 655 2654
+92,3573,Latika,Pratama,0868232664
+93,1375,Laila,Setiawan,(0520) 943 1903
+94,3175,Utama,Puspasari,+62-020-291-0916
+95,1371,Cahya,Jailani,+62 (015) 159-8031
+96,1371,Gatot,Wijaya,+62-31-465-5755
+97,3171,Jinawi,Manullang,+62 (019) 762 4115
+98,3273,Ibrani,Narpati,(0695) 024 0964
+99,3573,Luis,Budiyanto,+62 (20) 096-1617
+100,3573,Oskar,Permadi,+62 (191) 245-8502
